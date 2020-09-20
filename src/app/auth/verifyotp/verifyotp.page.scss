@@ -1,0 +1,22 @@
+ion-content{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.x{
+    display:inline-block;
+    width:25px;
+    height:25px;
+    margin:9px;
+    // border-radius: 50%;
+    --background:#e1e1e1;
+    --padding-start:1px;
+    }
+    .center{
+        text-align:center;
+   }
+   .otptimmer{
+            font-size: 12px;
+   }
+   .content{
+    font-size: 14px;
+    font-weight: 700;
+   }
+}

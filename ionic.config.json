@@ -1,0 +1,10 @@
+{
+  "name": "shopDharshan",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
